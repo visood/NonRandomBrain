@@ -1,0 +1,7 @@
+name := "learn.neuroscience"
+
+version := "0.1"
+
+scalaVersion := "2.10.3"
+
+
